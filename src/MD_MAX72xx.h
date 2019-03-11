@@ -243,7 +243,7 @@ enough current for the number of connected modules.
  graphics some FLASH RAM can be saved by not including the code to process
  font data. The font file is stored in PROGMEM.
  */
-#define USE_LOCAL_FONT 1
+#define USE_LOCAL_FONT 0
 
 // Display parameter constants
 // Defined values that are used throughout the library to define physical limits
